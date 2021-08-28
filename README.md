@@ -26,21 +26,21 @@ The timetable may be change.
 
 Presentations and videos can be downloaded from here: TBA
 
-| #  | Date | Lecture | Seminar |
-| -- | ---- | ------- | ------- |
-| 1  | 2021 | Introduction to the topic | TBA |
-| 2  | 2021 | Metric Algorithms, kNN | TBA |
-| 3  | 2021 | Decision Trees | TBA |
-| 4  | 2021 | Linear Models | TBA |
-| 5  | 2021 | SVM | TBA |
-| 6  | 2021 | Regularized Linear Models | TBA |
-| 7  | 2021 | Time Series | TBA |
-| 8  | 2021| Text Classification | TBA |
-| 9  | 2021 | Bayes approach, EM | TBA |
-| 10 | 2021 | Clustering| TBA |
-| 11 | 2021 | Ranking | TBA |
-| 12 | 2021 | Gradient Boosting | TBA |
-| 13 | 2021| No Lecture Here | TBA |
+| #  | Date | Lecture | Seminar | Homework |
+| -- | ---- | ------- | ------- | -------- |
+| 1  | 2021-09-09 | Introduction to the topic | How to manage this course | - |
+| 2  | 2021-09-16 | Metric Algorithms, kNN | TBA | HW#1 |
+| 3  | 2021-09-23 | Decision Trees | TBA | - |
+| 4  | 2021-09-30 | Linear Models | TBA | HW#2 |
+| 5  | 2021-10-07 | SVM | TBA | - |
+| 6  | 2021-10-14 | Regularized Linear Models | TBA | HW#3 |
+| 7  | 2021-10-21 | Time Series | TBA | - |
+| 8  | 2021-10-28| Text Classification | TBA | HW#4 |
+| 9  | 2021-11-04 | Bayes approach, EM | TBA | - |
+| 10 | 2021-11-11 | Clustering| TBA | HW#5 |
+| 11 | 2021-11-18 | Ranking | TBA | - |
+| 12 | 2021-11-25 | Gradient Boosting | TBA | HW#6 |
+| 13 | 2021-12-02| No Lecture Here | TBA | - |
 
 
 
