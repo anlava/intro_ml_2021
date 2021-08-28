@@ -1,5 +1,4 @@
-# Introduction to Machine Learning and Data Analysis 
-# 2021
+# 2021 Introduction to Machine Learning and Data Analysis 
 
 This is a repo for a 2021 course at the Department of Cosmic Research, MSU. 
 The course covers the very basic concepts of ML, it is obligatory for 4th year students, and for MS students it is an elective course.
@@ -36,11 +35,11 @@ Presentations and videos can be downloaded from here: TBA
 | 6  | 2021-10-14 | Regularized Linear Models | Useful web-pages for your DS career| HW#3 |
 | 7  | 2021-10-21 | Time Series | Hands-on practice: design your alerting system| - |
 | 8  | 2021-10-28| Text Classification | Invited Speakers: how to apply and get hired | HW#4 |
-| 9  | 2021-11-04 | Bayes approach, EM | TBA | - |
-| 10 | 2021-11-11 | Clustering| Clustering hands-on practice: is your password weak?| HW#5 |
-| 11 | 2021-11-18 | Ranking | TBA | - |
-| 12 | 2021-11-25 | Gradient Boosting | TBA | HW#6 |
-| 13 | 2021-12-02| No Lecture Here | TBA | - |
+| 9  | 2021-11-11 | Bayes approach, EM | TBA | - |
+| 10 | 2021-11-18 | Clustering| Clustering hands-on practice: is your password weak?| HW#5 |
+| 11 | 2021-11-25 | Ranking | TBA | - |
+| 12 | 2021-12-02 | Gradient Boosting | TBA | HW#6 |
+| 13 | 2021-12-09| No Lecture Here | TBA | - |
 
 
 
