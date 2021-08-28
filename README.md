@@ -29,15 +29,15 @@ Presentations and videos can be downloaded from here: TBA
 | #  | Date | Lecture | Seminar | Homework |
 | -- | ---- | ------- | ------- | -------- |
 | 1  | 2021-09-09 | Introduction to the topic | How to manage this course | - |
-| 2  | 2021-09-16 | Metric Algorithms, kNN | TBA | HW#1 |
-| 3  | 2021-09-23 | Decision Trees | TBA | - |
-| 4  | 2021-09-30 | Linear Models | TBA | HW#2 |
-| 5  | 2021-10-07 | SVM | TBA | - |
-| 6  | 2021-10-14 | Regularized Linear Models | TBA | HW#3 |
-| 7  | 2021-10-21 | Time Series | TBA | - |
-| 8  | 2021-10-28| Text Classification | TBA | HW#4 |
+| 2  | 2021-09-16 | Metric Algorithms, kNN | Classification Quality Metrics | HW#1 |
+| 3  | 2021-09-23 | Decision Trees | How to tune hyperparameters| - |
+| 4  | 2021-09-30 | Linear Models | Invited speaker: Vasily Lavrov. Intro to Data Visualization | HW#2 |
+| 5  | 2021-10-07 | SVM | PCA and SVM | - |
+| 6  | 2021-10-14 | Regularized Linear Models | Useful web-pages for your DS career| HW#3 |
+| 7  | 2021-10-21 | Time Series | Hands-on practice: design your alerting system| - |
+| 8  | 2021-10-28| Text Classification | Invited Speakers: how to apply and get hired | HW#4 |
 | 9  | 2021-11-04 | Bayes approach, EM | TBA | - |
-| 10 | 2021-11-11 | Clustering| TBA | HW#5 |
+| 10 | 2021-11-11 | Clustering| Clustering hands-on practice: is your password weak?| HW#5 |
 | 11 | 2021-11-18 | Ranking | TBA | - |
 | 12 | 2021-11-25 | Gradient Boosting | TBA | HW#6 |
 | 13 | 2021-12-02| No Lecture Here | TBA | - |
@@ -54,7 +54,7 @@ Each homework has its deadline. Submission after deadline will reduce points.
 | 3  | HW#3  Kaggle Comptetition: Classifiaction | 2021-XX-YY | 2021-XX-YY 23:00:00 +03:00 / 2021-XX-YY 23:00:00 +03:00| TBA |
 | 4  | HW#4  TextClassification | 2021-XX-YY | 2021-XX-YY +03:00 | TBA |
 | 5  | HW#5  Kaggle Competition Regression: |2021-XX-YY | 2021-XX-YY +03:00 / 2021-XX-YY 23:00:00 +03:00| TBA | 
-
+I
 
 ## Late Submission Discounts:
 - Submission after the deadline: each score is multiplied by 0.5
