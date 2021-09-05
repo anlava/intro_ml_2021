@@ -31,7 +31,7 @@ Presentations and videos can be downloaded from here: TBA
 | 2  | 2021-09-16 | Metric Algorithms, kNN | Classification Quality Metrics | HW#1 |
 | 3  | 2021-09-23 | Decision Trees | How to tune hyperparameters| - |
 | 4  | 2021-09-30 | Linear Models | Invited speaker: Vasily Lavrov. Intro to Data Visualization | HW#2 |
-| 5  | 2021-10-07 | SVM | PCA and SVM | - |
+| 5  | 2021-10-07 | SVM | PCA and SVD | - |
 | 6  | 2021-10-14 | Regularized Linear Models | Useful web-pages for your DS career| HW#3 |
 | 7  | 2021-10-21 | Time Series | Hands-on practice: design your alerting system| - |
 | 8  | 2021-10-28| Text Classification | Invited Speakers: how to apply and get hired | HW#4 |
