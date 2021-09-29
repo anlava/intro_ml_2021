@@ -48,7 +48,7 @@ Each homework has its deadline. Submission after deadline will reduce points.
 | #   | Name | Date Published | Deadline |  Link |
 | --- | ---- | -------------- | -------- | -- |
 | 1  | HW#1  Intro to numpy and pandas | 2021-09-10 | 2021-09-29 23:00:00 +03:00 | [[link]](https://github.com/cosmic-research-ml-edu/intro_ml_2021/tree/main/homeworks/hw01) |
-| 2  | HW#2  Basic feature selection and hyperparameter tuning | 2021-09-30 | 2021-10-20 23:00:00 +03:00 | TBA |
+| 2  | HW#2  Basic feature selection and hyperparameter tuning | 2021-09-30 | 2021-10-20 23:00:00 +03:00 | [[link]](https://github.com/cosmic-research-ml-edu/intro_ml_2021/tree/main/homeworks/hw02) |
 | 3  | HW#3  Kaggle Comptetition: Classifiaction | 2021-10-14 | 2021-10-24 23:00:00 +03:00 / 2021-11-03 23:00:00 +03:00| TBA |
 | 4  | HW#4  TextClassification | 2021-10-28 | 2021-11-17 23:00:00 +03:00 | TBA |
 | 5  | HW#5  Kaggle Competition: Regression | 2021-11-18 | 2021-11-28 23:00:00 +03:00 / 2021-12-01 23:00:00 +03:00| TBA | 
