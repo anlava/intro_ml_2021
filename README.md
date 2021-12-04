@@ -31,13 +31,13 @@ Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/_
 | 3  | 2021-09-23 | Decision Trees | How to tune hyperparameters| - |
 | 4  | 2021-09-30 | Linear Models | Invited speaker: Vasily Lavrov. Intro to Data Visualization | HW#2 |
 | 5  | 2021-10-07 | SVM | PCA and SVD | - |
-| 6  | 2021-10-14 | Regularized Linear Models | Useful web-pages for your DS career| HW#3 |
+| 6  | 2021-10-14 | Regularized Linear Models | Useful web-pages for your DS career [skipped]| HW#3 |
 | 7  | 2021-10-21 | Time Series | Hands-on practice: design your alerting system| - |
 | 8  | 2021-10-28| Text Classification | Invited Speaker Yulia Gavrilenko: how to apply and get hired | HW#4 |
 | 9  | 2021-11-11 | Bayes approach, EM | Invited Speaker Boris Abramkin: A/B Tests + HW#3 kaggle winners | - |
 | 10 | 2021-11-18 | Clustering| Clustering hands-on practice: is your password weak?| HW#5 |
 | 11 | 2021-11-25 | Ranking | Invited Speaker Gleb Menchits: Data Analyst in Tinkoff | - |
-| 12 | 2021-12-02 | Gradient Boosting | TBA | HW#6 |
+| 12 | 2021-12-02 | Gradient Boosting | No seminar here | HW#6 |
 | 13 | 2021-12-09| No Lecture Here | HW#5 kaggle winners | - |
 
 
