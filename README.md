@@ -4,7 +4,7 @@ This is a repo for a 2021 course at the Department of Cosmic Research, MSU.
 The course covers the very basic concepts of ML, it is obligatory for 4th year students, and for MS students it is an elective course.
 
 # General info
-- The course consists of 12 lectures and 12 seminars and 5-6 homeworks.
+- The course consists of 12 lectures and 12 seminars and 5 homeworks.
 - All lectures and seminars will be held **online** via Zoom and probably recorded (Zoom screen capture).
 - PDFs with lecture slides will be published here: https://disk.yandex.ru/d/_tj5jTusnb0CEQ
 - All homeworks are to be submitted **online**.
@@ -37,7 +37,7 @@ Presentations and videos can be downloaded from here: https://disk.yandex.ru/d/_
 | 9  | 2021-11-11 | Bayes approach, EM | Invited Speaker Boris Abramkin (Bolt): A/B Tests + HW#3 kaggle winners | - |
 | 10 | 2021-11-18 | Clustering| Clustering hands-on practice: is your password weak?| HW#5 |
 | 11 | 2021-11-25 | Ranking | Invited Speaker Gleb Menchits (Tinkoff bank): Data Analyst in Tinkoff | - |
-| 12 | 2021-12-02 | Gradient Boosting | No seminar here | HW#6 |
+| 12 | 2021-12-02 | Gradient Boosting | No seminar here | - |
 | 13 | 2021-12-09| No Lecture Here | HW#5 kaggle winners | - |
 
 
